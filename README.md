@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamaanahmad
-- 👀 I’m interested in Web Technologies and Learning about Technology
-- 🌱 I’m currently persuing Diploma in EEE from Maulana Azad National Urdu University
-- 💞️ I’m looking to collaborate on WebDev
+- 👀 I’m a Google Play Certified, Google Product Expert, Google Crowdsource Awardee, Web Developer, App Publisher and Webmaster
+- 🌱 I’ll completed my Diploma in Engineering from Maulana Azad National Urdu University.
+- 💞️ I’m looking to collaborate on WebDev, App Dev, AI Project, Website Project, Security Awarness
 - 📫 How to reach me iamaanshaikh@cit.org.in
 
 <!---

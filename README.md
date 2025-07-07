@@ -43,6 +43,6 @@ Passionate about making technology accessible and useful worldwide. Building dig
 ## 🤝 Let's Connect!
 
 - **LinkedIn**: [iamaanshaikh](https://www.linkedin.com/in/iamaanshaikh)
-- **Email**: asharamaan234@gmail.com / iamaanahmad@cit.org.in
+- **Email**: iamaanahmad@cit.org.in
 - **Company Website**: [www.cit.org.in](https://www.cit.org.in/)
 - **Blog**: [www.knowledgesense.in](https://www.knowledgesense.in)

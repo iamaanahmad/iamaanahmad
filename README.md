@@ -1,16 +1,46 @@
-## Hi there 👋
+# Amaan Ahmad
 
-<!--
-**iamaanahmad/iamaanahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Professional & Entrepreneur** | Founder & CEO of [Centre for Information Technology India](https://www.cit.org.in/) | Tech Enthusiast
 
-Here are some ideas to get you started:
+Passionate about making technology accessible and useful worldwide. Building digital solutions for schools, local businesses, and more with over 6 years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Expertise
+
+- Artificial Intelligence (AI) & Web3
+- Website Development & Cybersecurity
+- Graphic Design & UI/UX
+- Digital Platform Management & Community Building
+
+---
+
+## 🚀 Work & Projects
+
+- **Centre for Information Technology India**: Leading IT operations, business development, and website security.
+- **Free Fire Community**: Managing and moderating a website for 130K+ global users, enhancing engagement and fostering a positive online community. [Visit](http://freefirecommunity.com/)
+- **AI & Gemini API**:
+  - [Local-Boost-AI](https://github.com/iamaanahmad/Local-Boost-AI): A web app for local businesses to generate digital marketing strategies using Google Gemini.
+  - [D-AI-Content-Summarizer](https://github.com/iamaanahmad/D-AI-Content-Summarizer): Summarizes articles/URLs with Gemini and a responsive UI.
+  - [AI-NFT-Description-Generator](https://github.com/iamaanahmad/AI-NFT-Description-Generator): Generates creative NFT descriptions from images or keywords.
+- **Web3 & Blockchain**:
+  - [CodeCup-World](https://github.com/iamaanahmad/CodeCup-World): A full-stack Solana-based platform for coding challenges and community engagement.
+  - [Omnichain-Voyager](https://github.com/iamaanahmad/Omnichain-Voyager): A cross-chain NFT RPG for the LayerZero x Solana hackathon.
+- **Google Crowdsource & Local Guide**: Editorial Contributor and Local Guider with 1M+ views.
+
+---
+
+## 🌱 Learning & Exploring
+
+- Advanced AI and Machine Learning applications
+- New Web3 ecosystems and blockchain development
+- Enhancing cybersecurity protocols and application security
+
+---
+
+## 🤝 Let's Connect!
+
+- **LinkedIn**: [iamaanshaikh](https://www.linkedin.com/in/iamaanshaikh)
+- **Email**: asharamaan234@gmail.com / iamaanahmad@cit.org.in
+- **Company Website**: [www.cit.org.in](https://www.cit.org.in/)
+- **Blog**: [www.knowledgesense.in](https://www.knowledgesense.in)

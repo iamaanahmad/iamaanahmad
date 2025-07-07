@@ -1,7 +1,7 @@
 ![Contribution Board](https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg)
 # Amaan Ahmad
 
-**IT Professional & Web3** | Founder & CEO of [Centre for Information Technology India](https://www.cit.org.in/) | Tech Enthusiast
+**IT Professional & Web3** | Founder & CEO of Centre for Information Technology India | Tech Enthusiast
 
 Passionate about making technology accessible and useful worldwide. Building digital solutions for schools, local businesses, and more with over 4 years of experience.
 

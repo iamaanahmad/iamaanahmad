@@ -9,7 +9,7 @@ Crafting digital solutions that solve real-world problems. Bridging the gap betw
 
 ### 🧠 About Me
 
-Founder of **Centre for Information Technology India**, I’m a full-stack IT professional with 4+ years of experience building solutions for schools, businesses, and global communities. I love working at the intersection of **AI, Web3, design, and security** — where innovation meets impact.
+Founder of **Centre for Information Technology India**, I’m a full-stack IT professional with 4+ years of experience building solutions for businesses, and global communities. I love working at the intersection of **AI, Web3, design, and security** — where innovation meets impact.
 
 ---
 
@@ -26,7 +26,7 @@ Founder of **Centre for Information Technology India**, I’m a full-stack IT pr
 #### 🚀 Founder, [CIT India](https://www.cit.org.in/)
 Building secure and accessible digital platforms for businesses, schools & startups. Leading product dev, client relations, and community building.
 
-#### 🔥 [Free Fire Community](https://www.freefirecommunity.com/)
+#### 🔥 Admin, [Free Fire Community](https://www.freefirecommunity.com/)
 Moderator & Admin for a 450K+ member gaming forum. Driving engagement, content, and conflict resolution.
 
 #### 🤖 AI Tools Powered by Gemini

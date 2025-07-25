@@ -316,13 +316,14 @@ Bridging **traditional tech** with **future-forward innovations**. I craft digit
 
 [![Amazon Author](https://img.shields.io/badge/Amazon-Author-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/author/amaan)
 [![Google Local Guide](https://img.shields.io/badge/Google-Local%20Guide-4285F4?style=for-the-badge&logo=google&logoColor=white)]()
-[![Kindle](https://img.shields.io/badge/Kindle-3%2B%20eBooks-232F3E?style=for-the-badge&logo=amazon-kindle&logoColor=white)](https://www.amazon.com/author/amaan)
+[![Kindle](https://img.shields.io/badge/Kindle-3%2B%20eBooks-232F3E?style=for-the-badge&logo=amazon-kindle&logoColor=white)]([https://www.amazon.com/author/amaan](https://www.amazon.com/stores/Amaan-Ahmad/author/B0F9TNJJVL))
 
 **📖 Published Topics:**
-- Digital Transformation Strategies
+- AI Across Industries
 - Freelancing & Entrepreneurship
-- Technology Innovation Guides
-- Business Development Insights
+- Tech, Power, and Truth
+- The Global Economic Outlook
+- Pixel Empires
 
 </div>
 

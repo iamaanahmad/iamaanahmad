@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Web3+%26+AI+Enthusiast+%F0%9F%A7%A0;Founder+%40+CIT+India+%F0%9F%8F%A2;Building+the+Future%2C+One+Code+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Web3+%26+AI+Enthusiast+%F0%9F%A7%A0;Founder+%40+CIT+India+%F0%9F%8F%A2)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamaanahmad&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />

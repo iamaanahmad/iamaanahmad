@@ -69,12 +69,13 @@ Bridging **traditional tech** with **future-forward innovations**. I craft digit
 <div align="center">
 
 ### **Programming Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
 ### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -82,23 +83,60 @@ Bridging **traditional tech** with **future-forward innovations**. I craft digit
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
-### **Web3 & Blockchain**
+### **Web3, Blockchain & Decentralized Tech**
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![LayerZero](https://img.shields.io/badge/LayerZero-1A1A1A?style=for-the-badge)
+![NFT](https://img.shields.io/badge/NFT-5C5C5C?style=for-the-badge)
+![Dapp](https://img.shields.io/badge/Dapp-FFB400?style=for-the-badge)
 
 ### **AI & Machine Learning**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FFD700?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge)
 
-### **Tools & Platforms**
+### **DevOps, Cloud & Automation**
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-1976D2?style=for-the-badge)
+
+### **Community, Data & Automation**
+![Discord API](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Database](https://img.shields.io/badge/Databases-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### **Areas of Expertise**
+
+- **Full-stack Development:** Modern web apps using TypeScript, React, Next.js, Node.js, Tailwind, and more.
+- **Blockchain & Web3:** Smart contracts, NFT platforms, decentralized apps, cross-chain solutions (Solana, Ethereum, LayerZero).
+- **AI/ML:** Generative models, prompt engineering, AI jury systems, fine-tuning workflows.
+- **Cloud & DevOps:** Firebase, AWS, Vercel, Docker, CI/CD pipelines for scalable deployment.
+- **Community Automation:** Discord bots, moderation tools, API integrations for large-scale gaming/esports communities.
+- **Data Engineering:** Large database explorers, data modeling (JSON, NoSQL), analytics & reporting.
+- **UI/UX:** Responsive, modern interfaces with Tailwind, Framer Motion, and design systems.
+- **Security & DevSecOps:** Security automation, ethical hacking, vulnerability assessment.
+
+---
+
+### **Current & Emerging Focus Areas**
+- Generative AI & fine-tuning
+- Cross-chain Web3 ecosystems
+- Secure development & automation
+- Community-driven platforms (gaming, social, esports)
+- Token-based gamification & rewards
 
 </div>
 

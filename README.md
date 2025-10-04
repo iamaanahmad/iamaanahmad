@@ -24,7 +24,7 @@
   <a href="https://www.cit.org.in"><img src="https://img.shields.io/badge/🌐_Website-CIT_India-FF6B35?style=for-the-badge" /></a>
   <a href="mailto:iamaanahmad@cit.org.in"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/iamaanshaikh"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
-  <a href="https://x.com/i_amaanahmad"><img src="https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge" /></a>
+  <a href="https://x.com/i_amaanahmad"><img src="https://img.shields.io/badge/🐦_X-Follow-1DA1F2?style=for-the-badge" /></a>
 </p>
 
 </div>
@@ -900,7 +900,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 [![Website](https://img.shields.io/badge/Website-CIT%20India-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cit.org.in)
 [![Email](https://img.shields.io/badge/Email-iamaanahmad%40cit.org.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamaanahmad@cit.org.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaanshaikh)
-[![Twitter](https://img.shields.io/badge/Twitter-@i__amaanahmad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i_amaanahmad)
+[![Twitter](https://img.shields.io/badge/X-@i__amaanahmad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i_amaanahmad)
 [![Blog](https://img.shields.io/badge/Blog-Knowledge%20Sense-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.knowledgesense.in)
 [![Instagram](https://img.shields.io/badge/Instagram-iamaan.ahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamaan.ahmad/)
 [![CodeCup](https://img.shields.io/badge/CodeCup-ashqking-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://codecup.cc/u/ashqking)
@@ -1021,23 +1021,13 @@ every function meaningful, and every project impactful."</i><br><br>
 
 <table align="center">
 <tr>
-<td align="center">☕<br><b>Coffee Consumed</b><br>∞ cups/day</td>
+<td align="center">☕<br><b>Chain Consumed</b><br>∞ cups/day</td>
 <td align="center">💻<br><b>Lines of Code</b><br>500K+ this year</td>
 <td align="center">🌙<br><b>Late Night Commits</b><br>More than I admit</td>
 <td align="center">🐛<br><b>Bugs Fixed</b><br>Too many to count</td>
 <td align="center">🎯<br><b>Projects Shipped</b><br>29+ on GitHub</td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 **Currently Vibing To**
-
-[![Spotify](https://novatorem-iamaanahmad.vercel.app/api/spotify)](https://open.spotify.com/user/31kcyvkh3jjmpkvqfzqcbvnvzieu)
 
 </div>
 
@@ -1104,10 +1094,6 @@ every function meaningful, and every project impactful."</i><br><br>
 </p>
 
 **"Building the future, one commit at a time. Let's create something amazing together! 🚀"**
-
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/iamaanahmad/count.svg)
 
 <br>
 

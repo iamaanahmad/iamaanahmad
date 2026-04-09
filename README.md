@@ -67,13 +67,7 @@ const amaan = {
 
 <div align="center">
 
-### 📊 **GitHub Analytics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamaanahmad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Amaan's%20GitHub%20Stats" alt="GitHub Stats" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=iamaanahmad&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
-
-### 📊 **Quick Stats**
+### 📊 **GitHub Activity**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaanahmad&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="100%"/>
 
 </div>
@@ -91,24 +85,9 @@ const amaan = {
 </div>
 
 <div align="center">
-
-<table>
-<tr>
+<p align="center">
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamaanahmad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td align="center">
-<img src="https://streak-stats.demolab.com/?user=iamaanahmad&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaanahmad&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaanahmad&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Language Distribution" width="100%"/>
-</td>
-</tr>
+</p>
 </table>
 
 ### 📊 **Contribution Activity Graph**
@@ -155,14 +134,6 @@ Solidity     █░░░░░░░░░░░░░░░░░░░░    
 Other        ░░░░░░░░░░░░░░░░░░░░░    0.3%
 ```
 <!--END_SECTION:waka-->
-
-### ⚡ **Recent Activity**
-
-<div align="center">
-
-![Recent Activity](https://github-readme-stats.vercel.app/api?username=iamaanahmad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Recent%20GitHub%20Activity)
-
-</div>
 
 ### 🎯 **Current Focus Areas**
 

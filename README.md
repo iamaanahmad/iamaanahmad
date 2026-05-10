@@ -63,16 +63,6 @@ const amaan = {
 ```
 
 </td>
-<td width="50%">
-
-<div align="center">
-
-### 📊 **GitHub Activity**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaanahmad&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="100%"/>
-
-</div>
-
-</td>
 </tr>
 </table>
 
@@ -94,8 +84,8 @@ const amaan = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaanahmad&theme=react-dark&hide_border=true&area=true&point=FF6B35&line=36BCF7&color=FFFFFF&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%"/>
 
-<details>
-<summary><b>📊 More Detailed Analytics (Click to Expand)</b></summary>
+
+<b>📊 More Detailed Analytics</b>
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamaanahmad&theme=radical" alt="Profile Summary" width="100%"/>
@@ -109,8 +99,6 @@ const amaan = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamaanahmad&theme=radical" alt="Stats" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamaanahmad&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%"/>
 </p>
-
-</details>
 
 </div>
 
@@ -192,10 +180,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
-<details>
-<summary><b>🔥 Click to Expand Complete Tech Stack</b></summary>
-<br>
-
 <div align="center">
 
 ### **Programming Languages**
@@ -244,20 +228,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
-</details>
-
 ---
-
-<div align="center">
-
-## 🏆 **Featured Projects & Achievements**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamaanahmad&repo=meteora-fee-router&theme=radical&hide_border=true)](https://github.com/iamaanahmad/meteora-fee-router)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamaanahmad&repo=alpenglow-verifier&theme=radical&hide_border=true)](https://github.com/iamaanahmad/alpenglow-verifier)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamaanahmad&repo=CodeCupHQ&theme=radical&hide_border=true)](https://github.com/iamaanahmad/CodeCupHQ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iamaanahmad&repo=kiro-verse&theme=radical&hide_border=true)](https://github.com/iamaanahmad/kiro-verse)
-
-</div>
 
 ### 🚀 **Project Highlights**
 
@@ -551,7 +522,6 @@ every function meaningful, and every project impactful."</i><br><br>
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamaanahmad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=iamaanahmad&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
@@ -614,6 +584,6 @@ every function meaningful, and every project impactful."</i><br><br>
 
 <br>
 
-<sub>⭐ From [iamaanahmad](https://github.com/iamaanahmad) with 💙 | Last updated: January 2026</sub>
+<sub>⭐ From [iamaanahmad](https://github.com/iamaanahmad) with 💙 | Last updated: May 2026</sub>
 
 </div>

@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://www.cit.org.in"><img src="https://img.shields.io/badge/🌐_Website-CIT_India-FF6B35?style=for-the-badge" /></a>
   <a href="mailto:iamaanahmad@cit.org.in"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/iamaanshaikh"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/iamaanahmad"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
   <a href="https://x.com/i_amaanahmad"><img src="https://img.shields.io/badge/🐦_X-Follow-1DA1F2?style=for-the-badge" /></a>
 </p>
 
@@ -397,7 +397,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 [![Website](https://img.shields.io/badge/Website-CIT%20India-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cit.org.in)
 [![Email](https://img.shields.io/badge/Email-iamaanahmad%40cit.org.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamaanahmad@cit.org.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaanshaikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaanahmad)
 [![Twitter](https://img.shields.io/badge/X-@i__amaanahmad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i_amaanahmad)
 [![Blog](https://img.shields.io/badge/Blog-Knowledge%20Sense-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.knowledgesense.in)
 [![Instagram](https://img.shields.io/badge/Instagram-iamaan.ahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamaan.ahmad/)

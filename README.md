@@ -80,8 +80,6 @@ const amaan = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaanahmad&theme=radical&hide_border=true&layout=compact)
 ![Streak](https://streak-stats.demolab.com?user=iamaanahmad&theme=radical&hide_border=true)
 
-![Contribution Snake](https://raw.githubusercontent.com/iamaanahmad/iamaanahmad/output/github-snake-dark.svg)
-
 ---
 
 ## Organizations

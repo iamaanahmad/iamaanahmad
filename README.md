@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.cit.org.in"><img src="https://img.shields.io/badge/🌐_Website-CIT_India-FF6B35?style=for-the-badge" alt="Website" /></a>
-  <a href="mailto:iamaanahmad@cit.org.in"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:amaan@cit.org.in"><img src="https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/iamaanahmad"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/i_amaanahmad"><img src="https://img.shields.io/badge/🐦_X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
@@ -190,36 +190,77 @@ const amaan = {
 </details>
 
 <details>
-<summary><b>🤖 AI & Machine Learning Projects</b></summary>
+<summary><b>🤖 AI & Automation</b></summary>
 <br>
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎓 [Kiro Verse](https://github.com/iamaanahmad/kiro-verse)
+#### ⚙️ [agentforge](https://github.com/iamaanahmad/agentforge)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![AI](https://img.shields.io/badge/-AI-FF6F61?style=flat)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat)
-![Education](https://img.shields.io/badge/-Education-4CAF50?style=flat)
+![Agents](https://img.shields.io/badge/-Agents-9945FF?style=flat)
 
-**AI-powered interactive learning environment**
-- Intelligent code mentorship
-- Verifiable blockchain credentials
-- Ethereum integration
-- Personalized learning paths
+**Self-hosted AI operator platform**
+- Multi-specialist worker agents
+- Durable task execution
+- CI-tested with automated releases
+- MIT licensed, Python 3.12/3.13
 
 </td>
 <td width="50%">
 
-#### 🎨 [AIArtify](https://github.com/iamaanahmad/AIArtify)
+#### 🛠️ [everything-kiro](https://github.com/iamaanahmad/everything-kiro)
 ![AI](https://img.shields.io/badge/-AI-FF6F61?style=flat)
-![NFT](https://img.shields.io/badge/-NFT-FF6B6B?style=flat)
+![Kiro](https://img.shields.io/badge/-Kiro-1A1A1A?style=flat)
+![MCP](https://img.shields.io/badge/-MCP-00D1B2?style=flat)
+⭐ **30 stars**
 
-**AI art creation with a 5-node jury system**
-- LazAI powered validation
-- Specialized AI analyzers
-- Decentralized minting
-- Quality assurance system
+**The complete Kiro IDE toolkit**
+- Agents, hooks & steering files
+- MCP server configurations
+- Skills kept in sync with Kiro's schemas
+- Drop-in workspace setup
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>📱 Shipped Apps</b></summary>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📒 [ProofPocket](https://github.com/iamaanahmad/ProofPocket)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo)
+
+**The offline shift & pay log that proves you got paid**
+- Offline-first shift tracking
+- Pay verification against actual earnings
+- RevenueCat monetization
+- Shipaton 2026 submission
+
+</td>
+<td width="50%">
+
+#### 🏥 [AgoraCare](https://github.com/iamaanahmad/agoracare-app)
+![Flutter](https://img.shields.io/badge/-Flutter-02569E?style=flat&logo=flutter)
+![Voice AI](https://img.shields.io/badge/-Voice_AI-FF6F61?style=flat)
+![Healthcare](https://img.shields.io/badge/-Healthcare-4CAF50?style=flat)
+
+**Voice AI healthcare companion for rural India**
+- Hindi/English voice consultations
+- Medication reminders & vitals by voice
+- Emergency escalation to a live nurse via Agora
+- Voice AI Hackathon 2026 submission
 
 </td>
 </tr>
@@ -314,7 +355,7 @@ const amaan = {
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-CIT%20India-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cit.org.in)
-[![Email](https://img.shields.io/badge/Email-iamaanahmad%40cit.org.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamaanahmad@cit.org.in)
+[![Email](https://img.shields.io/badge/Email-amaan%40cit.org.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaan@cit.org.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaanahmad)
 [![X](https://img.shields.io/badge/X-@i__amaanahmad-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_amaanahmad)
 [![Blog](https://img.shields.io/badge/Blog-Knowledge%20Sense-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.knowledgesense.in)
@@ -401,7 +442,7 @@ every function meaningful, and every project impactful."</i><br><br>
 </p>
 
 ### 🐍 **Contribution Snake**
-![Contribution Snake](https://raw.githubusercontent.com/iamaanahmad/iamaanahmad/output/github-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
